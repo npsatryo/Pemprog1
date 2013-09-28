@@ -1,4 +1,3 @@
-package Tugas1;
 public class SatryoSIM
 {
 	public static void main (String[] Xx)
